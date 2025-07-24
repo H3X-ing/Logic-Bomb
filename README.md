@@ -1,6 +1,6 @@
 # 💣 Logic Bomb – Post-Exploitation Simulation (Operating Systems Project)
 
-This project is a controlled lab simulation of a **Logic Bomb**—a stealthy, post-exploitation payload designed to demonstrate how attackers maintain access and manipulate compromised systems. Developed as part of an Operating Systems and Cybersecurity course, the project focuses on understanding adversarial techniques and system-level behavior in Windows environments.
+This project is a controlled lab simulation of a **Logic Bomb** a stealthy, post-exploitation payload designed to demonstrate how attackers maintain access and manipulate compromised systems. Developed as part of an Operating Systems and Cybersecurity course, the project focuses on understanding adversarial techniques and system-level behavior in Windows environments.
 
 ## 📁 Project Overview
 

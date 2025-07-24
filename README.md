@@ -10,13 +10,13 @@ The Logic Bomb simulates how a Windows system might be compromised using multipl
 
 - **Reverse Shell (PowerShell)** – Establishes a connection from victim to attacker.
   
-  ![Connection](ss/WhatsApp Image 2025-07-23 at 16.27.47_c4871c53.jpg)
+  ![Connection](ss/7863.jpg)
   
-  ![Access](ss/WhatsApp Image 2025-07-23 at 16.27.46_f1865e48.jpg)
+  ![Access](ss/5678.jpg)
   
 - **Persistence via Task Scheduler** – Automatically re-executes payloads upon user login.
   
-  ![Persistence](ss/WhatsApp Image 2025-07-23 at 16.27.45_86db224c.jpg)
+  ![Persistence](ss/1234.jpg)
   
 - **Visual Payloads** – Modifies wallpaper, shows message boxes/pop-ups for impact simulation.
   
